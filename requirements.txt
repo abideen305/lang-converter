@@ -16,4 +16,4 @@ SentencePiece
 #tensorflow
 #tensorflow-cpu
 #h5py==2.10.0
-#textblob == 0.17.1
+textblob == 0.17.1
