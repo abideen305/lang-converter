@@ -4,7 +4,7 @@ transformers
 SentencePiece
 
 #OCR
-#googletrans==3.1.0a0
+googletrans==3.1.0a0
 #streamlit
 #pip
 #easyocr
@@ -17,3 +17,4 @@ SentencePiece
 #tensorflow-cpu
 #h5py==2.10.0
 textblob == 0.17.1
+googletrans
